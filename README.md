@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shoaib Alom</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [Image compression application](https://image-compressor-587p.onrender.com)
+- 🔭 I’m currently working on a project  [Image compression application](https://image-compressor-587p.onrender.com)
 
 - 🌱 I’m currently learning **Sequelize ORM**
 
-- 👨‍💻 My recent Blog application project [Blog Application](https://myblogapp-v3g8.onrender.com)
+- 👨‍💻 My recent Blog application project  [Blog Application](https://myblogapp-v3g8.onrender.com)
 
 - 📫 How to reach me **shoaibs4444@gmail.com**
 
