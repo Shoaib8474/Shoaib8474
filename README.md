@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shoaib Alom</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on a project  [Image compression application](<a href="https://image-compressor-587p.onrender.com"></a> )
+- 🔭 I’m currently working on a project  [Image compression application](https://image-compressor-587p.onrender.com )
 
-- 👨‍💻 My recent Blog application project  [Blog Application](<a href="https://myblogapp-v3g8.onrender.com"></a>)
+- 👨‍💻 My recent Blog application project  [Blog Application](https://myblogapp-v3g8.onrender.com)
 
 - 📄 My Resume [https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link](https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link)
 
