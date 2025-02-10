@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on a project  [Image compression application](https://image-compressor-587p.onrender.com)
 
-- 🌱 I’m currently learning **Sequelize ORM**
-
 - 👨‍💻 My recent Blog application project  [Blog Application](https://myblogapp-v3g8.onrender.com)
 
-- 📫 How to reach me **shoaibs4444@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link](https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link)
+
+- 📫 How to reach me **shoaibs4444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
