@@ -5,7 +5,7 @@
 
 - 👨‍💻 My recent Blog application project  [Blog Application](https://myblogapp-v3g8.onrender.com)
 
-- 📄 My Resume [https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link](https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link](https://drive.google.com/file/d/1DMeoDCkuKiL3kLSGs7qmtOxPpHdPu_Ds/view?usp=sharing)
 
 - 📫 How to reach me **shoaibs4444@gmail.com**
 
