@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shoaib Alom</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on a project  [Image compression application](https://image-compressor-587p.onrender.com)
+- 🔭 I’m currently working on a project [URL Shortener with analytics]
 
-- 👨‍💻 My recent Blog application project  [Blog Application](https://myblogapp-v3g8.onrender.com)
+- 👨‍💻 My recent Blog application project  [Blog Application](https://myblogapp-v3g8.onrender.com) & Image Compressor webApp [Image compression application](https://image-compressor-587p.onrender.com)
 
-- 📄 My Resume [https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link](https://drive.google.com/file/d/1DMeoDCkuKiL3kLSGs7qmtOxPpHdPu_Ds/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link](https://drive.google.com/file/d/1YtqGMsc-k2If-RGtZ10B2KNLfFJhWSV8/view?usp=sharing)
 
-- 📫 How to reach me **shoaibs4444@gmail.com**
+- 📫 How to reach me **shoaibs4444@gmail.com** and 
+- WhatsApp [<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/+918474802463)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
