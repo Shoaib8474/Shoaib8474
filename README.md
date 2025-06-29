@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shoaib Alom</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on a URL *Shortener with analytics* Project
+- 🔭 I’m currently working on a *URL Shortener with analytics* Project
 
 - 👨‍💻 My recent Blog application project  [Blog Application](https://myblogapp-v3g8.onrender.com) & Image Compressor webApp [Image compression application](https://image-compressor-587p.onrender.com)
 
 - 📄 My Resume [https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link](https://drive.google.com/file/d/1YtqGMsc-k2If-RGtZ10B2KNLfFJhWSV8/view?usp=sharing)
 
 - 📫 How to reach me **shoaibs4444@gmail.com** and 
-- <img width="20" height="20" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>  [WhatsApp](https://wa.me/+918474802463)
+- <img width="20" height="20" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>   [WhatsApp](https://wa.me/+918474802463)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
