@@ -8,7 +8,7 @@
 - 📄 My Resume [https://drive.google.com/file/d/1gSdDf4kxrXiJgVjPDrhqNXdXBaL4MMlv/view?usp=drive_link](https://drive.google.com/file/d/1YtqGMsc-k2If-RGtZ10B2KNLfFJhWSV8/view?usp=sharing)
 
 - 📫 How to reach me **shoaibs4444@gmail.com** and 
-- [<img width="22" height="22" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>]  [WhatsApp](https://wa.me/+918474802463)
+- <p><img width="20" height="20" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></p>  [WhatsApp](https://wa.me/+918474802463)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
